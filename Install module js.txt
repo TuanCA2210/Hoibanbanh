@@ -1,0 +1,6 @@
+
+npm init -y
+
+npm install -save mongoose
+npm install express --save
+npm install ejs
